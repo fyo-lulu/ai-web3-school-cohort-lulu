@@ -1,0 +1,9 @@
+一个 DeFi tool 至少应该要求：
+
+协议白名单；
+最大交易额；
+最大滑点；
+价格来源；
+simulation；
+allowance 检查；
+人工确认或 session key policy。
